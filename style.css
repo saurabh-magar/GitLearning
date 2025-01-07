@@ -3,11 +3,11 @@ body{
     
 }
 h1,p{
-    color: red
+    color: rgb(198, 227, 235)
 }
 button{
     background-color: rgb(23, 163, 35);
-    border-radius: 20px;
-    padding: 10px;
+    color: rgb(210, 17, 39);
     border: 3px solid blue;
+    font-weight: bolder;
 }
